@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALinkedLists", "CALinkedLists\CALinkedLists.csproj", "{2341F54F-397E-4C94-9392-13AE7125E6C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAHashSetsandSortedSets", "CAHashSetsandSortedSets\CAHashSetsandSortedSets.csproj", "{4DA6D7EE-BBDB-4656-84DE-EEF659868C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2341F54F-397E-4C94-9392-13AE7125E6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2341F54F-397E-4C94-9392-13AE7125E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2341F54F-397E-4C94-9392-13AE7125E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2341F54F-397E-4C94-9392-13AE7125E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA6D7EE-BBDB-4656-84DE-EEF659868C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA6D7EE-BBDB-4656-84DE-EEF659868C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA6D7EE-BBDB-4656-84DE-EEF659868C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA6D7EE-BBDB-4656-84DE-EEF659868C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6DDD0B-258F-4DCD-9847-0A29B9FA050D}
+	EndGlobalSection
+EndGlobal
